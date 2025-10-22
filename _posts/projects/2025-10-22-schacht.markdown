@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Schacht (Astral Tracks)"
+thumbnail: "assets/img/schacht1-1920x1080.jpg"
+date:   2025-10-22 16:59:24 +0200
+categories: jekyll update
+website: https://store.steampowered.com/app/2190380/Astral_Tracks/
+tools:  [Unreal Engine 4, Visual Studio, Jira/Confluence]
+---
+
+[SteamStore]
+
+Schacht is a competitive 3D platformer racing game. Run on walls, swing, slide and dash to beat the levels as fast as possible. Compare your highscores with players from all around the world or challenge your friends in the local splitscreen multiplayer!
+
+Schacht originally was created over the course of three semesters by students in a game project course. Over 30 students participated in creating this game almost wholly on their own.
+
+After the release on Steam, the game was further developed, polished and ported to the Playstation 4 by a few core members of the original team.
+
+GENRE: 3D Platformer                                                    TEAM SIZE: 35
+
+PLATFORMS: PC, PS4                                                      ROLE: Gameplay & Tool Programmer
+
+ENGINE: Unreal Engine 4                                               DURATION: 12 Months
+OTHER TOOLS: Visual Studio, JIRA, Confluence
+
+I participated in the engineering department of this project twice, in the first and third semester.
+
+My tasks included:
+
+First Semester:
+
+    - Prototype inital player abilities, especially Grappling and Dashing
+        - Grappling: Attaching and swinging from specific locations in the game world
+        - Dashing: A quick, lateral movement forward to reach platforms and/or increase the overall speed
+    - Create initial UI elements, mainly used in the menus
+
+Third Semester:
+
+    - Character Accessory System (+ Menu)
+        - Configure the attachment of visual accessoires onto the player character
+    - Rebindable Input System (+ Menu)
+    - Database for all level assets used in the procedural generation
+        - Consists of assets containing meta data about all level segments
+        - Small engine tool to assist in the creation and maintenance of the database
+    - Many small tasks ranging from bug fixing to minor game system improvements
+
+This was my first project with the Unreal Engine 4, so I started out with using Blueprints but later transitioned to using C++ (except for UI related tasks).
+I also gained valuable experience in using Confluence and JIRA for documenting and organizing our whole team, as well as using Git for versioning.
+
+[SteamStore]: https://store.steampowered.com/app/2190380/Astral_Tracks/
