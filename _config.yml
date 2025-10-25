@@ -20,7 +20,7 @@
 
 title: Jan-Niklas Keck - Portfolio
 
-avatar: "assets/img/ben.webp" #profile picture for portfolio
+avatar: "assets/img/avatar.jpg" #profile picture for portfolio
 name:   "Jan-Niklas Keck"
 email: janniklaskeck@online.de
 #description: >- # this means to ignore newlines until "baseurl:"
@@ -28,7 +28,7 @@ email: janniklaskeck@online.de
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
   
-introduction: "Write something nice about yourself or whatever you want. This text should appear right below your tools."
+introduction: "The right man in the wrong place can make all the difference in the world."
 
 social_username:
   linkedin:  "LinkedIn"
@@ -49,6 +49,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+
+steamicon: "/assets/img/steam_icon.png"
+epicicon: "/assets/img/epic_games_store_icon.svg"
+googleicon: "/assets/img/google_play_icon.png"
+appleicon: "/assets/img/apple_app_store_icon.webp"
+githubicon: "/assets/img/github_icon.png"
 
 # Build settings
 theme: neutralizing

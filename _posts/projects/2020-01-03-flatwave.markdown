@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Flatwave"
+thumbnail: "/assets/img/flatwave/cover.png"
+date:   2025-10-22 16:59:24 +0200
+categories: project private
+tools:  [Unreal Engine 4, Visual Studio, Jira/Confluence]
+permalink: "/:title/"
+personal: true
+---
+FlatWave is a First Person Shooter where the player tries to fight through the level while being attacked by the enemy.
+
+Includes three different weapons with two fire modes each, three different enemy types and one short level.
+
+GENRE: First Person Shooter                                         PLATFORMS: PC
+
+ENGINE: Unreal Engine 4                                               DURATION: 1 Months
+
+OTHER TOOLS: Visual Studio, Blender, Gimp, Audacity, hacknPlan
+This is my first "complete" First Person Shooter which I created.
+Most of the assets used were created by me, with the exceptions of sound/music, some textures and the font.
+I used hacknPlan to organize my work and plan possible game features.
+Almost all of the programming was done in C++ with Visual Studio, except for UI related functionality or really simple features.
+
+Below you can see some screenshots as well as a short video of a playthrough.
